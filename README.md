@@ -2,6 +2,8 @@
 
 Back up notes after reading some tech companies' engineering blog.
 
-1. Introducing Nurse: Auto-Remediation at Linkedin https://engineering.linkedin.com/sre/introducing-nurse-auto-remediation-linkedin
-   
-   keywords: April 2014, SRE, Automation, infrastructure
+1. 07/23/15 Introducing Nurse: Auto-Remediation at Linkedin (From Apirl 2014) https://engineering.linkedin.com/sre/introducing-nurse-auto-remediation-linkedin
+
+2. 07/20/15 A Brief History of Scaling LinkedIn
+https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
+
