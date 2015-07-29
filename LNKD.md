@@ -1,4 +1,4 @@
-# backup_papers_and_blogs
+# backup_papers_and_blogs_LNKD
 
 Back up notes after reading some tech companies' papers and engineering blogs.
 
