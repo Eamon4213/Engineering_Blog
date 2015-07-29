@@ -1,6 +1,6 @@
-# Engineering_Blog
+# backup_papers_and_blogs
 
-Back up notes after reading some tech companies' engineering blog.
+Back up notes after reading some tech companies' papers and engineering blogs.
 
 L家论文合集 
 http://data.linkedin.com/publications
