@@ -7,6 +7,12 @@ Back up notes after reading some tech companies' engineering blog.
 2. 07/20/15 A Brief History of Scaling LinkedIn
 https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
 
-3. L家论文合集 
+L家论文合集 
 http://data.linkedin.com/publications
+
+3. 03/20/15 Running Kafka At Scale
+https://engineering.linkedin.com/kafka/running-kafka-scale
+
+4. 03/17/15 New technologies for the new LinkedIn home page
+https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page
 
