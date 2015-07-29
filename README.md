@@ -7,3 +7,6 @@ Back up notes after reading some tech companies' engineering blog.
 2. 07/20/15 A Brief History of Scaling LinkedIn
 https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin
 
+3. L家论文合集 
+http://data.linkedin.com/publications
+
