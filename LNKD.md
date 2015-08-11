@@ -14,3 +14,6 @@ https://engineering.linkedin.com/kafka/running-kafka-scale
 4. 03/17/15 New technologies for the new LinkedIn home page
 https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-page
 
+5. 08/10/15 An interview with an internship student about Venice
+https://engineering.linkedin.com/distributed-systems/prototyping-venice-derived-data-platform
+
