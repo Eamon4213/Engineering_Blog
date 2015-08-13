@@ -17,3 +17,6 @@ https://engineering.linkedin.com/frontend/new-technologies-new-linkedin-home-pag
 5. 08/10/15 An interview with an internship student about Venice
 https://engineering.linkedin.com/distributed-systems/prototyping-venice-derived-data-platform
 
+6. 08/12/15 New Engineering Bootcamp
+https://engineering.linkedin.com/engineering-culture/building-linkedins-new-engineering-bootcamp
+
