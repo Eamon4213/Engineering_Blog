@@ -1,4 +1,4 @@
-
+#backup_resources
 1. [Textbook: SPEECH and LANGUAGE PROCESSING] (http://www.cs.colorado.edu/~martin/slp.html)
 2. [Kaggle] (https://www.kaggle.com/)
 2. [World Tree] (http://www.jasondavies.com/wordtree/?source=flickr-comments.txt&prefix=Thank&reverse=0)
