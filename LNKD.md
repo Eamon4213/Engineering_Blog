@@ -18,3 +18,5 @@
 6. 08/12/15 [New Engineering Bootcamp]
 (https://engineering.linkedin.com/engineering-culture/building-linkedins-new-engineering-bootcamp)
 
+7. 03/01/12 [Cleo: the open source technology behind LinkedIn's typeahead search] (https://engineering.linkedin.com/open-source/cleo-open-source-technology-behind-linkedins-typeahead-search)
+
