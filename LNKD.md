@@ -20,3 +20,7 @@
 
 7. 03/01/12 [Cleo: the open source technology behind LinkedIn's typeahead search] (https://engineering.linkedin.com/open-source/cleo-open-source-technology-behind-linkedins-typeahead-search)
 
+8. 9/29/15 [Espresso Onboarding Experiences: InMail](https://engineering.linkedin.com/espresso-migration-inmail/espresso-onboarding-experiences-inmail)
+
+9. 10/01/15 [Introduction: Technical Paper on LinkedIn's A/B Testing Platform](https://engineering.linkedin.com/ab-testing/introduction-technical-paper-linkedins-ab-testing-platform)
+
